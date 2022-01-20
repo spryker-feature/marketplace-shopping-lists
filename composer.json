@@ -1,0 +1,16 @@
+{
+    "name": "spryker-feature/marketplace-shopping-lists",
+    "description": "Marketplace Shopping Lists [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    }
+}
