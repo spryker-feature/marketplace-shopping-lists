@@ -6,7 +6,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4"
+        "php": ">=7.4",
+        "spryker-shop/product-offer-shopping-list-widget": "^0.1.0",
+        "spryker/product-offer-shopping-list": "^0.1.0",
+        "spryker/product-offer-shopping-list-data-import": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
