@@ -9,11 +9,12 @@
         "php": ">=7.4",
         "spryker-shop/product-offer-shopping-list-widget": "^0.1.0",
         "spryker/product-offer-shopping-list": "^0.1.0",
-        "spryker/product-offer-shopping-list-data-import": "^0.1.0"
+        "spryker/product-offer-shopping-list-data-import": "^0.1.0",
+        "spryker/shopping-list": "^4.8.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202108.x-dev"
+            "dev-master": "202204.x-dev"
         }
     }
 }
