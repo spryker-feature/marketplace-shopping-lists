@@ -6,15 +6,15 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/product-offer-shopping-list-widget": "^1.0.0",
         "spryker/product-offer-shopping-list": "^1.0.0",
         "spryker/product-offer-shopping-list-data-import": "^0.1.0",
-        "spryker/shopping-list": "^4.9.0"
+        "spryker/shopping-list": "^4.10.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
