@@ -10,7 +10,7 @@
         "spryker-shop/product-offer-shopping-list-widget": "^1.0.0",
         "spryker/product-offer-shopping-list": "^1.0.0",
         "spryker/product-offer-shopping-list-data-import": "^0.1.0",
-        "spryker/shopping-list": "^4.16.0"
+        "spryker/shopping-list": "^4.17.0"
     },
     "extra": {
         "branch-alias": {
