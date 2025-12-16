@@ -11,6 +11,6 @@ composer require spryker-feature/marketplace-shopping-lists
 ```
 
 ## Optional modules
-- [MerchantProductOfferShoppingListsRestApi ^1.0.0](https://github.com/spryker/merchant-product-offer-shopping-lists-rest-api) (Legacy Glue)
-- [MerchantProductShoppingListsRestApi ^1.0.0](https://github.com/spryker/merchant-product-shopping-lists-rest-api) (Legacy Glue)
-- [ProductOfferShoppingListsRestApi ^1.0.0](https://github.com/spryker/product-offer-shopping-lists-rest-api) (Legacy Glue)
+- [MerchantProductOfferShoppingListsRestApi ^1.1.0](https://github.com/spryker/merchant-product-offer-shopping-lists-rest-api) (Legacy Glue)
+- [MerchantProductShoppingListsRestApi ^1.1.0](https://github.com/spryker/merchant-product-shopping-lists-rest-api) (Legacy Glue)
+- [ProductOfferShoppingListsRestApi ^1.1.0](https://github.com/spryker/product-offer-shopping-lists-rest-api) (Legacy Glue)
