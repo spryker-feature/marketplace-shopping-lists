@@ -8,13 +8,13 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/product-offer-shopping-list-widget": "^1.0.0",
-        "spryker/product-offer-shopping-list": "^1.0.0",
+        "spryker/product-offer-shopping-list": "^1.1.0",
         "spryker/product-offer-shopping-list-data-import": "^0.1.0",
-        "spryker/shopping-list": "^4.19.0"
+        "spryker/shopping-list": "^4.20.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
